@@ -232,8 +232,8 @@ Special thanks to:
 ## 📬 Contact
 
 For questions, suggestions, or collaborations:
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/)
+- **Email:** [contact@aadiichavan.com](mailto:aditya.chavan24@vit.edu)
+- **LinkedIn:** [Aditya Chavan](www.linkedin.com/in/aadii-chavan)
 
 ---
 
