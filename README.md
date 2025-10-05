@@ -68,9 +68,6 @@ Empower rapid, accessible tumor screening for all—reducing diagnosis time, aid
 
 ## 🛠️ How it Works
 
-<p align="center">
-  <img src="https://placehold.co/600x200?text=How+It+Works+Diagram" alt="How it Works Diagram"/>
-</p>
 
 1. **Upload MRI Image** → 2. **Image Preprocessing** → 3. **Model Prediction** → 4. **Result Interpretation**
 
@@ -139,22 +136,6 @@ Prediction: Glioma Tumor
 - **Approach:** Transfer Learning
 - **Input Shape:** `150x150x3`
 - **Output Classes:** 4 (Glioma, Meningioma, Pituitary, No Tumor)
-
-### ⚙️ Layers Added on Top
-```python
-GlobalAveragePooling2D()
-Dense(128, activation='relu')
-Dropout(0.3)
-Dense(4, activation='softmax')
-```
-
-### 🧮 Compilation Parameters
-| Parameter     | Value                    |
-| ------------- | ------------------------ |
-| Optimizer     | Adam                     |
-| Learning Rate | 0.0001                   |
-| Loss Function | Categorical Crossentropy |
-| Metrics       | Accuracy                 |
 
 ---
 
