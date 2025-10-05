@@ -1,11 +1,17 @@
 # 🧠 Brain Tumor Detection System
 
-Team Name: 
-Team members name: Aditya Chavan, Rushikesh Ambhore, Atharva Agey, Pranav Dawange
-Project name: Xccurate-ML
-Project abstract: 
-Tech stack:
-Dataset used if any:
+---
+
+**Team Name:** Team SafeAI  
+**Team Members:** Aditya Chavan, Rushikesh Ambhore, Atharva Agey, Pranav Dawange  
+**Project Name:** Xccurate-ML  
+**Project Abstract:**
+> Xccurate-ML is an advanced AI-powered diagnostic tool that leverages deep learning to analyze MRI brain scans for the detection and classification of brain tumors. Designed for both healthcare professionals and non-experts, it delivers fast, accurate, and accessible results, supporting early diagnosis and improved patient outcomes.
+
+**Tech Stack:** Python 3.9+, TensorFlow 2.x, Keras, NumPy, Pillow  
+**Dataset Used:** [Brain Tumor MRI Dataset (Kaggle)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
@@ -201,9 +207,10 @@ Dense(4, activation='softmax')
 
 **Team SafeAI**
 
-- [Your Name] — Machine Learning Engineer
-- [Teammate Name] — Backend Developer
-- [Teammate Name] — UI/UX & Frontend Designer
+- Aditya Chavan — Machine Learning Engineer
+- Rushikesh Ambhore — Backend Developer
+- Atharva Agey — UI/UX & Frontend Designer
+- Pranav Dawange — Data Scientist
 
 ---
 
