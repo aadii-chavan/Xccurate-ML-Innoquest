@@ -2,7 +2,7 @@
 
 ---
 
-**Team Name:** Team Xccurate <br>
+**Team Name:** Team INNOVISIONERS  <br>
 **Team Members:** Aditya Chavan, Rushikesh Ambhore, Atharva Agey, Pranav Dawange  
 **Project Name:** Xccurate-ML  
 **Project Abstract:**
